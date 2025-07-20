@@ -1,0 +1,6 @@
+__pycache__
+venv
+
+parsed_documents
+.env
+retriever.ipynb
