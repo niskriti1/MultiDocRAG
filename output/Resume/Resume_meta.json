@@ -1,0 +1,183 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Niskriti Paudel",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.73681640625,
+          50.2734375
+        ],
+        [
+          242.947265625,
+          50.2734375
+        ],
+        [
+          242.947265625,
+          84.0146484375
+        ],
+        [
+          60.73681640625,
+          84.0146484375
+        ]
+      ]
+    },
+    {
+      "title": "Education",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.77734375,
+          148.88671875
+        ],
+        [
+          122.9677734375,
+          148.88671875
+        ],
+        [
+          122.9677734375,
+          166.095703125
+        ],
+        [
+          56.77734375,
+          166.095703125
+        ]
+      ]
+    },
+    {
+      "title": "Lumbini ICT Campus, Tribhuvan University",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.6279296875,
+          169.8662109375
+        ],
+        [
+          306.0,
+          169.8662109375
+        ],
+        [
+          306.0,
+          185.3349609375
+        ],
+        [
+          56.6279296875,
+          185.3349609375
+        ]
+      ]
+    },
+    {
+      "title": "Skills & Abilities",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.113525390625,
+          263.935546875
+        ],
+        [
+          163.9072265625,
+          263.935546875
+        ],
+        [
+          163.9072265625,
+          280.564453125
+        ],
+        [
+          57.113525390625,
+          280.564453125
+        ]
+      ]
+    },
+    {
+      "title": "Projects",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.262939453125,
+          345.533203125
+        ],
+        [
+          111.462890625,
+          345.533203125
+        ],
+        [
+          111.462890625,
+          362.162109375
+        ],
+        [
+          57.262939453125,
+          362.162109375
+        ]
+      ]
+    },
+    {
+      "title": "Experience",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.188232421875,
+          498.48046875
+        ],
+        [
+          130.7373046875,
+          498.48046875
+        ],
+        [
+          130.7373046875,
+          516.26953125
+        ],
+        [
+          57.188232421875,
+          516.26953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1560,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Resume"
+}
